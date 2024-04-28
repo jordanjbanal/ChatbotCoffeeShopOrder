@@ -1,5 +1,5 @@
 <h1>Coffee Bot</h1>
-Welcome to Jordan’s cafe! This Python script simulates an interactive coffee ordering experience. Users can choose their preferred drink size, type, and milk for their latte.
+Welcome to Jordan’s cafe! This Python script simulates an interactive coffee ordering experience. Users can choose their preferred drink size, type, and milk for their coffees.
 
 <h2>How It Works</h2>
 <p>1. The coffee_bot() function initiates the coffee ordering process.</p>
